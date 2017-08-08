@@ -1,5 +1,5 @@
 # CustomView
-##How to draw a circle in Android (onDraw method in View)
+## How to draw a circle in Android (onDraw method in View)
 
 By Alvin Alexander. 
 Last updated: July 9 2017
