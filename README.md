@@ -7,7 +7,7 @@ Last updated: July 9 2017
 
 To draw a circle in Android you just need to create your own View class and then use that in your Activity. For example, the following CustomView shows how to extend a View and draw a circle in the onDraw method:
 
-    package com.alvinalexander.circledemo;
+```package com.alvinalexander.circledemo;
 
     import android.content.Context;
     import android.graphics.Canvas;
@@ -34,7 +34,7 @@ To draw a circle in Android you just need to create your own View class and then
         }
 
 }
-
+```
 Now all you have to do is use this CustomView in your Activity:
 
 ''' package com.alvinalexander.circledemo;
