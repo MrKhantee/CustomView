@@ -52,6 +52,6 @@ public class MainActivity extends Activity {
 }
 If you set this as the main Activity of your Android application and then run it in an emulator, it should look like this:
 
-
+[!] customview/2017_08_08_12.34.12.jpg
 
 In summary, if you wanted to see how to draw a circle in Android, I hope this example is helpful.
