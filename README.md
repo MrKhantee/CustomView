@@ -19,7 +19,7 @@ To draw a circle in Android you just need to create your own View class and then
     
         private Paint paint;
 
-    public CustomView(Context context) {
+        public CustomView(Context context) {
         super(context);
 
         // create the Paint and set its color        
@@ -27,11 +27,11 @@ To draw a circle in Android you just need to create your own View class and then
         paint.setColor(Color.GRAY);
         }
 
-    @Override
-    protected void onDraw(Canvas canvas) {
+        @Override
+        protected void onDraw(Canvas canvas) {
         canvas.drawColor(Color.BLUE);
         canvas.drawCircle(200, 200, 100, paint);
-    }
+        }
 
 }
 
