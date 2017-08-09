@@ -3,6 +3,7 @@
 
 By Alvin Alexander...
 
+
 Last updated: July 9 2017
 ### Android FAQ: How do I draw a circle in Android?
 
