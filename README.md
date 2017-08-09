@@ -2,7 +2,6 @@
 ## How to draw a circle in Android (onDraw method in View)
 
 By Alvin Alexander...
-
 Last updated: July 9 2017
 ### Android FAQ: How do I draw a circle in Android?
 
